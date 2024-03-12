@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735462144724",
+    "project_id": "projectpaba-d461e",
+    "storage_bucket": "projectpaba-d461e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735462144724:android:b0ec6373b163b6641e5941",
+        "android_client_info": {
+          "package_name": "com.example.projectpaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735462144724-p1aqe7g1i3bpl66scb6rf0h5tumpk3vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBahAawT23mY8RPERpT1O9gZLebq3341EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735462144724-p1aqe7g1i3bpl66scb6rf0h5tumpk3vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
